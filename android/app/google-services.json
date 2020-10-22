@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554728139440",
+    "firebase_url": "https://scoreboard-c428e.firebaseio.com",
+    "project_id": "scoreboard-c428e",
+    "storage_bucket": "scoreboard-c428e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554728139440:android:02fdfc8681a70cdb532975",
+        "android_client_info": {
+          "package_name": "com.nazmul81.scoreboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554728139440-tlf6bv3nso6f2ila1gftka5npid4hubk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuvTBFB5LP--TjWthmjBCanglZv-_lJQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554728139440-tlf6bv3nso6f2ila1gftka5npid4hubk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
